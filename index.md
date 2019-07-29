@@ -3,7 +3,7 @@
 ## landmark-detection
 Implementation of landmark detection using keras.
 
-Personal project available [here](https://github.com/ErenO/landmark-detection)
+You can find the project [here](https://github.com/ErenO/landmark-detection)
 
 
 <p align="center">
@@ -16,17 +16,22 @@ Personal project available [here](https://github.com/ErenO/landmark-detection)
 
 Scrap images from zalando and train a classifier on them.
 
+You can find the project [here](https://github.com/ErenO/zld-scraper)
+
 Here are some of them:
 
 <p align="center">
 <img width="900" height="250" src="./images/zalando.png">
 </p>
 
-
+# CNN-layer-visualization
 
 **Web app for filters visualisation**
 
 An app to show the image of maximization of the filter's activation.
+
+You can find the project [here](https://github.com/ErenO/CNN-layer-visualization)
+
 You just have to choose the layer, then put the filter number, it will automatically save it to static/img/layers_name/
 
 If you put no filter number, it will show you all the filters of the layer. 
