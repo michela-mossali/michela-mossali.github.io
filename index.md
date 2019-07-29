@@ -5,7 +5,7 @@ Personal project available [here](https://github.com/ErenO/landmark-detection)
 
 
 <p align="center">
-<img width="534" height="116" src="https://github.com/ErenO/landmark-detection/blob/master/img.png">
+<img width="534" height="116" src="https://github.com/ErenO/ereno.github.io/blob/master/images/landmark.png">
 </p>
 
 [Link to another page](./another-page.html).
