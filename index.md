@@ -10,9 +10,6 @@ Personal project available [here](https://github.com/ErenO/landmark-detection)
 <img width="900" height="400" src="./images/landmark.png">
 </p>
 
-[Link to another page](./another-page.html).
-
-
 # zld-scraper
 
 **Zalando scraper**
@@ -24,3 +21,6 @@ Here are some of them:
 <p align="center">
 <img width="900" height="250" src="./images/zalando.png">
 </p>
+
+
+[Link to another page](./another-page.html).
