@@ -66,4 +66,4 @@ Make sure to export the path to app.py before running the app
 <pre><code>export FLASK_APP='root/your_path'
 </code></pre> 
 
-[Link to another page](./another-page.html).
+//[Link to another page](./another-page.html).
