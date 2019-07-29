@@ -28,6 +28,7 @@ Here are some of them:
 
 An app to show the image of maximization of the filter's activation.
 You just have to choose the layer, then put the filter number, it will automatically save it to static/img/layers_name/
+
 If you put no filter number, it will show you all the filters of the layer. 
 
 <p align="center">
