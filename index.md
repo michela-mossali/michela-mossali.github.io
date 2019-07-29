@@ -37,11 +37,11 @@ If you put no filter number, it will show you all the filters of the layer.
 Here are some examples : 
 
 <p align="center">
-<img width="900" height="250" src="./images/img1.png">
+<img width="900" height="500" src="./images/img1.png">
 </p>
 
 <p align="center">
-<img width="900" height="250" src="./images/img2.png">
+<img width="900" height="500" src="./images/img2.png">
 </p>
 
 All you have to do, is to replace the code of the function make_model() by your model architecture, in visualize.py,
