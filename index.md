@@ -23,4 +23,41 @@ Here are some of them:
 </p>
 
 
+
+**Web app for filters visualisation**
+
+An app to show the image of maximization of the filter's activation.
+You just have to choose the layer, then put the filter number, it will automatically save it to static/img/layers_name/
+If you put no filter number, it will show you all the filters of the layer. 
+
+<p align="center">
+<img width="900" height="250" src="https://github.com/appchoose/layer-visualisation/blob/master/image/img3.png">
+</p>
+
+Here are some examples : 
+
+<p align="center">
+<img width="900" height="250" src="https://github.com/appchoose/layer-visualisation/blob/master/image/img1.png">
+</p>
+
+<p align="center">
+<img width="900" height="250" src="https://github.com/appchoose/layer-visualisation/blob/master/image/img2.png">
+</p>
+
+All you have to do, is to replace the code of the function make_model() by your model architecture, in visualize.py,
+put your model in the folder, and change the model's name in app.py, import also all the necessary dependencies for your model.
+
+To run flask, change the path to app.py in run.sh, 
+execute the command:
+<pre><code>source run.sh
+</code></pre> 
+then:
+<pre><code>flask run --port 5000 --host 0.0.0.0
+</code></pre>
+
+
+Make sure to export the path to app.py before running the app 
+<pre><code>export FLASK_APP='root/your_path
+</code></pre> 
+
 [Link to another page](./another-page.html).
