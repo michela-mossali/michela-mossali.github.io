@@ -24,4 +24,3 @@ Here are some of them:
 <p align="center">
 <img width="900" height="400" src="./images/zalando.png">
 </p>
-![Alt text](img.png?raw=true "Title")
