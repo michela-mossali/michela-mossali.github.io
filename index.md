@@ -7,7 +7,7 @@ Personal project available [here](https://github.com/ErenO/landmark-detection)
 
 
 <p align="center">
-<img width="534" height="116" src="./images/landmark.png">
+<img width="800" height="250" src="./images/landmark.png">
 </p>
 
 [Link to another page](./another-page.html).
